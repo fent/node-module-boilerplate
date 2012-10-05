@@ -1,5 +1,5 @@
-var lib = require('..')
-  , assert = require('assert')
+var lib    = require('..');
+var assert = require('assert');
 
 
 describe('Test', function() {
