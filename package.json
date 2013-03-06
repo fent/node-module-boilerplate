@@ -1,25 +1,23 @@
 {
-  "name": "MOD",
-  "description": "explanation",
+  "name": basename.replace(/^node-/, ''),
+  "description": prompt(),
   "keywords": ["one"],
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/MOD.git"
+    "url": "git://github.com/fent/" + basename + ".git"
   },
   "author": "fent (https://github.com/fent)",
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha -R spec test/*-test.js"
   },
-  "directories": {
-    "lib": "./lib"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "*"
   },
   "licenses": [ {
     "type": "MIT",
-    "url" : "http://github.com/fent/MOD/raw/master/LICENSE"
+    "url" : "http://github.com/fent/" + basename + "/raw/master/LICENSE"
   }]
 }
