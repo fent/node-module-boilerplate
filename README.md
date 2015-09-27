@@ -1,6 +1,8 @@
-# MOD [![Build Status](https://secure.travis-ci.org/fent/MOD.png)](http://travis-ci.org/fent/MOD)
+# MOD
 
 [short consice explanation]
+
+[![Build Status](https://secure.travis-ci.org/fent/MOD.png)](http://travis-ci.org/fent/MOD) [![Dependency Status](https://gemnasium.com/fent/MOD.svg)](https://gemnasium.com/fent/MOD)
 
 
 # Usage
