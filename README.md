@@ -2,7 +2,10 @@
 
 [short consice explanation]
 
-[![Build Status](https://secure.travis-ci.org/fent/MOD.png)](http://travis-ci.org/fent/MOD) [![Dependency Status](https://gemnasium.com/fent/MOD.svg)](https://gemnasium.com/fent/MOD)
+[![Build Status](https://secure.travis-ci.org/fent/MOD.png)](http://travis-ci.org/fent/MOD)
+[![Dependency Status](https://gemnasium.com/fent/MOD.svg)](https://gemnasium.com/fent/MOD)
+[![codecov](https://codecov.io/gh/fent/MOD/branch/master/graph/badge.svg)](https://codecov.io/gh/fent/MOD)
+
 
 
 # Usage
