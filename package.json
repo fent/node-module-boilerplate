@@ -16,8 +16,5 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "licenses": [ {
-    "type": "MIT",
-    "url" : "http://github.com/fent/" + basename + "/raw/master/LICENSE"
-  }]
+  "license": "MIT"
 }
