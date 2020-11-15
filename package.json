@@ -13,15 +13,16 @@
     "lib"
   ],
   "scripts": {
-    "test": "istanbul cover node_modules/.bin/_mocha -- test/*-test.js"
+    "test": "nyc --reporter=lcov --reporter=text-summary npm run test:unit",
+    "test:unit": "mocha test/*-test.js"
   },
   "dependencies": {},
   "devDependencies": {
-    "istanbul": "*",
+    "nyc": "*",
     "mocha": "*"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "license": "MIT"
 }
