@@ -1,6 +1,6 @@
 # MOD
 
-[short consice explanation]
+[short consise explanation]
 
 [![Build Status](https://secure.travis-ci.org/fent/MOD.svg)](http://travis-ci.org/fent/MOD)
 ![Depfu](https://img.shields.io/depfu/fent/MOD)
