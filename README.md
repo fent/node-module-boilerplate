@@ -2,7 +2,8 @@
 
 [short consise explanation]
 
-![Depfu](https://img.shields.io/depfu/fent/MOD)
+[![npm](https://img.shields.io/npm/v/MOD)](https://www.npmjs.com/package/MOD)
+[![Node.js CI](https://github.com/fent/MOD/actions/workflows/nodejs.yml/badge.svg)](https://github.com/fent/MOD/actions/workflows/nodejs.yml)
 [![codecov](https://codecov.io/gh/fent/MOD/branch/master/graph/badge.svg)](https://codecov.io/gh/fent/MOD)
 
 
